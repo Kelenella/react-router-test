@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-router-test"]=this["webpackJsonpreact-router-test"]||[]).push([[0],{11:function(t,e,n){"use strict";n.r(e);var r=n(1),c=n.n(r),o=n(3),s=n.n(o),u=(n(8),n(9),n(0));var a=function(){return Object(u.jsx)(u.Fragment,{})};s.a.render(Object(u.jsx)(c.a.StrictMode,{children:Object(u.jsx)(a,{})}),document.getElementById("root"))},8:function(t,e,n){},9:function(t,e,n){}},[[11,1,2]]]);
+//# sourceMappingURL=main.9c8b3381.chunk.js.map
